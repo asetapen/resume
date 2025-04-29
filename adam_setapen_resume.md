@@ -43,6 +43,7 @@ San Francisco, CA | Aug 2019 - Dec 2022
 * Converted 20K-line procedural control file into modular, testable state machine  
 * Managed production + development releases, CI/CD pipelines, and weekly integration testing
 * Led junior engineers, ran trainings, and helped scale the team during growth phase
+* HMI design (robot sounds and lights), from drivers to UX
 
 ### **Primed Technologies**
 
@@ -83,7 +84,9 @@ Berkeley, CA | Sep 2014 - Oct 2015
 
 * Led development of scene-awareness and tracking systems for consumer drone platforms  
 * Optimized visual tracking pipelines for iOS and embedded systems  
-* Behavioral implementation of  the first autonomous drone selfie
+* Behavioral implementation of the first autonomous drone selfie
+* Implemented OTA firmware updates for remote control, gimbal, and drone firmware
+* Embedded systems integration, development of test software for use in manufacturing and production
 
 
 ### **Romotive (now Zipline)**
