@@ -10,7 +10,7 @@
 
 ## **Technical Skills**
 
-* **Software & Tools:** Python, C, C++, ROS2, Rust, git, systemd, GitHub Actions, Basic AWS and GCP, numpy, OpenCV, OpenGL, CUDA, cuDNN, Linux, docker  
+* **Software & Tools:** Python, C, C++, ROS2, Rust, Linux, docker, git, systemd, GitHub Actions, Basic AWS and GCP, numpy, OpenCV, OpenGL, CUDA, cuDNN  
 * **Systems & Infrastructure:** Behavioral architectures, real-time motor control, motion planning, WebRTC, state machines, behavior trees, CI/CD pipelines  
 * **Leadership & Process:** Team leadership, hiring, mentoring, product ownership, agile workflows, cross-functional coordination  
 * **Hardware Design, Prototyping and Fabrication:** Sensor integration, basic proficiency in SolidWorks, OnShape, basic PCB prototyping, CNC, laser cutting, FDM/SLA 3D printing, animatronics, iOS/Android integration, mold-making, sewing

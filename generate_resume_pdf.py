@@ -28,12 +28,13 @@ h1 {{
     margin-bottom: 5px;
 }}
 h2 {{
-    color: #2f76c9;
+    color: #054a8f;
     font-size: 16px;
     margin-top: 0px;
     margin-bottom: 5px;
 }}
 h3 {{
+    color: #2f76c9;
     font-size: 14px;
     margin-top: 5px;
     margin-bottom: 0px;
