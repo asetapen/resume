@@ -1,7 +1,7 @@
 # **Adam Setapen**
 
 📍 San Francisco, CA | 📧 asetapen@gmail.com | 📞 415.805.6084    
-🌐 [adamsetapen.com](http://adamsetapen.com) | [github.com/asetapen](http://github.com/asetapen) | [LinkedIn](https://www.linkedin.com/in/adamsetapen/)
+<div id="www-logo"></div>[adamsetapen.com](http://adamsetapen.com) | <div id="github-logo"></div>[github.com/asetapen](http://github.com/asetapen) | <div id="linkedin-logo"></div>[linkedin.com/in/adamsetapen](https://www.linkedin.com/in/adamsetapen/)
 
 ##### Computer scientist and roboticist with 12+ years designing and delivering advanced robotic systems across consumer, industrial, and surgical domains. Known for building high-performing teams, architecting scalable systems, and shipping mission-critical software from prototype to production. Deeply technical and hands-on, with a relentless passion for automation, ROS2, and expressive machines. Shipped multiple  consumer robots, one industrial robot, and one surgical robot.
 
