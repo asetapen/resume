@@ -1,8 +1,7 @@
 # **Adam Setapen**
 
 📍 San Francisco, CA | 📧 asetapen@gmail.com | 📞 415.805.6084    
-🌐 [adamsetapen.com](http://adamsetapen.com) | [github.com/asetapen](http://github.com/asetapen)
-
+🌐 [adamsetapen.com](http://adamsetapen.com) | [github.com/asetapen](http://github.com/asetapen) | [LinkedIn](https://www.linkedin.com/in/adamsetapen/)
 
 ##### Computer scientist and roboticist with 12+ years designing and delivering advanced robotic systems across consumer, industrial, and surgical domains. Known for building high-performing teams, architecting scalable systems, and shipping mission-critical software from prototype to production. Deeply technical and hands-on, with a relentless passion for automation, ROS2, and expressive machines. Shipped multiple  consumer robots, one industrial robot, and one surgical robot.
 
@@ -42,7 +41,7 @@ San Francisco, CA | Aug 2019 – Dec 2022
 * Technical lead for the Behavior, Algorithms & Manipulation team (5 engineers) on an autonomous drywall finishing robot  
 * Architected core system components: planning, computer vision, manipulation, SLAM, and HMI (robot lights/sounds)  
 * Converted 20K-line procedural control file into modular, testable state machine  
-* Managed production \+ development releases, CI/CD pipelines, and weekly integration testing  
+* Managed production + development releases, CI/CD pipelines, and weekly integration testing
 * Led junior engineers, ran trainings, and helped scale the team during growth phase
 
 ### **Primed Technologies**
@@ -74,7 +73,7 @@ San Francisco, CA | Sep 2014 – Oct 2015
 
 * Prototyped and maintained classroom IoT devices, wearables, and smart surfaces  
 * Managed hardware deployment and maintenance across pilot schools  
-* Python ingestion of \~120 concurrent 1080P streams
+* Python ingestion of ~120 concurrent 1080P streams
 
 ### **3D Robotics**
 
@@ -135,7 +134,7 @@ Somerville, MA | Jan 2012 – Sept 2012
 
 ## **Teaching**
 
-* Introductory Robotics Course, Ages K \- 2 @ AltSchool
-* Line-following robots Course, Ages 2 \- 5 @ AltSchool
+* Introductory Robotics Course, Ages K - 2 @ AltSchool
+* Line-following robots Course, Ages 2 - 5 @ AltSchool
 * Fab Lab Essentials @ [Haystack Mountain School of Crafts](https://www.haystack-mtn.org)
 * [How to Make (almost) Anything**](https://fab.cba.mit.edu/classes/MAS.863/)**, TA @ [MIT](http://mit.edu)
