@@ -7,7 +7,7 @@ from weasyprint import HTML, CSS
 RESUME_IN_NAME: str = "adam_setapen_resume.md"
 RESUME_OUT_NAME: str = "adam_setapen_resume.pdf"
 
-images_dir = os.path.abspath('images')
+images_dir = os.path.abspath("images")
 
 # Define CSS styling
 css = CSS(
@@ -72,7 +72,7 @@ p {{
     align-items: center;
     white-space: nowrap;
 }}
-#github-logo, #linkedin-logo, #www-logo {{
+#github-logo, #linkedin-logo, #www-logo, #pin-logo, #email-logo, #phone-logo {{
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -94,8 +94,21 @@ p {{
     width: 14px;
     height: 14px;
 }}
+#pin-logo {{
+    background-image: url('file://{images_dir}/pin.svg');
+}}
+#email-logo {{
+    background-image: url('file://{images_dir}/email.svg');
+    width: 10px;
+    height: 10px;
+}}
+#phone-logo {{
+    background-image: url('file://{images_dir}/phone.svg');
+}}
+
 """
 )
+
 
 def main():
     print("Generating PDF from markdown...")
