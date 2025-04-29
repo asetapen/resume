@@ -1,11 +1,7 @@
 [project]
 name = "resume"
 version = "0.1.0"
-description = "Add your description here"
+description = "Adam Setpen's resume"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = [
-    "grip>=4.6.2",
-    "markdown2>=2.5.3",
-    "weasyprint>=65.1",
-]
+requires-python = ">=3.12"
+dependencies = ["grip>=4.6.2", "markdown2>=2.5.3", "weasyprint>=65.1"]

@@ -1,7 +1,9 @@
 # Resume
 
-## Setup
+Personal resume generated using markdown and css. Uses `uv` for environment and dependency management.
+
+## Generating a PDF
 
 ```bash
-uv run generate_resume_pdf.py
+./run.sh
 ```
