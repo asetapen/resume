@@ -22,7 +22,7 @@
 
 #### *Head of Software | Staff Robotics Engineer*
 
-San Francisco, CA | Dec 2022 – Present
+San Francisco, CA | Dec 2022 - Present
 
 * Software lead for an endovascular surgical robot enabling remote neurointervention  
 * Control of robotic telescoping catheter with visual fiducials for orientation inference, used to treat aneurysm and stroke or for diagnostics through angiograms  
@@ -36,7 +36,7 @@ San Francisco, CA | Dec 2022 – Present
 
 #### *Senior Staff Robotics Engineer | Staff Robotics Engineer | Senior Robotics Engineer*
 
-San Francisco, CA | Aug 2019 – Dec 2022
+San Francisco, CA | Aug 2019 - Dec 2022
 
 * Technical lead for the Behavior, Algorithms & Manipulation team (5 engineers) on an autonomous drywall finishing robot  
 * Architected core system components: planning, computer vision, manipulation, SLAM, and HMI (robot lights/sounds)  
@@ -69,7 +69,7 @@ San Francisco, CA | Oct 2016 - May 2018
 
 #### *Lead Hardware Engineer*
 
-San Francisco, CA | Sep 2014 – Oct 2015
+San Francisco, CA | Sep 2014 - Oct 2015
 
 * Prototyped and maintained classroom IoT devices, wearables, and smart surfaces  
 * Managed hardware deployment and maintenance across pilot schools  
@@ -79,7 +79,7 @@ San Francisco, CA | Sep 2014 – Oct 2015
 
 #### *Roboticist*
 
-Berkeley, CA | Sep 2014 – Oct 2015
+Berkeley, CA | Sep 2014 - Oct 2015
 
 * Led development of scene-awareness and tracking systems for consumer drone platforms  
 * Optimized visual tracking pipelines for iOS and embedded systems  
@@ -90,7 +90,7 @@ Berkeley, CA | Sep 2014 – Oct 2015
 
 #### *Roboticist*
 
-San Francisco, CA | Oct  2012 – Mar 2014
+San Francisco, CA | Oct  2012 - Mar 2014
 
 * Lead engineer on ML and Human-Robot Interaction for smartphone-based home robot  
 * Built GPU-accelerated OpenCV vision pipeline for facial detection and recognition, basic visual attention, and early offline classification algorithms  
@@ -101,7 +101,7 @@ San Francisco, CA | Oct  2012 – Mar 2014
 
 #### *Software Engineer*
 
-Somerville, MA | Jan 2012 – Sept 2012
+Somerville, MA | Jan 2012 - Sept 2012
 
 * Front-end (QT) for of the first Form1 software used for model slicing and generating toolpaths  
 * Designed and hosted the company's first website
@@ -112,7 +112,7 @@ Somerville, MA | Jan 2012 – Sept 2012
 
 ### **Massachusetts Institute of Technology (MIT)**
 
-#### *M.S., Robotics — MIT Media Lab, Personal Robots Group*
+#### *M.S., Robotics - MIT Media Lab, Personal Robots Group*
 
 **Thesis:** "Creating Robotic Characters for Long-Term Interaction"
 
