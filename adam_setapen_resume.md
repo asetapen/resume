@@ -27,7 +27,7 @@ San Francisco, CA | Dec 2022 - Present
 
 * Software lead for an endovascular surgical robot enabling remote neurointervention  
 * Control of robotic telescoping catheter with visual fiducials for orientation inference, used to treat aneurysm and stroke or for diagnostics through angiograms  
-* Built and led a team of 4 engineers developing robust, safety-critical software from ground-up.  
+* Built and led a team of 4 engineers developing robust, safety-critical software from ground-up
 * Owned core software systems: ROS2, shared org-wide python frameworks, motor control, catheter dynamics, UI, and real-time video streaming via WebRTC  
 * Prototyped reliable, maintainable hardware devices for real-time ML and inference  
 * Directed technical operations during the first-in-human robotic Digital Subtraction Angiography clinical trials  
