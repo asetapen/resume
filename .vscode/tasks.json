@@ -1,0 +1,15 @@
+// {
+//   "version": "1.0.0",
+//   "tasks": [
+//     {
+//       "label": "Run script on save",
+//       "type": "shell",
+//       "command": "./run.sh",
+//       "problemMatcher": [],
+//       "runOptions": {
+//         "runOn": "fileSave"
+//       }
+//     }
+//   ]
+// }
+

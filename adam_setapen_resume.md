@@ -50,7 +50,7 @@ San Francisco, CA | Aug 2019 - Dec 2022
 
 #### *Senior Robotics Engineer*
 
-San Francisco, CA | Oct 2016 - May 2018
+San Francisco, CA | May 2018 - August 2019
 
 * Developed a robotic animatronic toy  with speech recognition, NLP, and text-to-speech synthesis  
 * Architect and implement the entire robot software stack (python, ATMega, motor control)  
@@ -71,7 +71,7 @@ San Francisco, CA | Oct 2016 - May 2018
 
 #### *Lead Hardware Engineer*
 
-San Francisco, CA | Sep 2014 - Oct 2015
+San Francisco, CA | Oct 2015 - July 2016
 
 * Prototyped and maintained classroom IoT devices, wearables, and smart surfaces  
 * Managed hardware deployment and maintenance across pilot schools  
@@ -88,7 +88,6 @@ Berkeley, CA | Sep 2014 - Oct 2015
 * Behavioral implementation of the first autonomous drone selfie
 * Implemented OTA firmware updates for remote control, gimbal, and drone firmware
 * Embedded systems integration, development of test software for use in manufacturing and production
-
 
 ### **Romotive (now Zipline)**
 
