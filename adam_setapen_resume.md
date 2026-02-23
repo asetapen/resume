@@ -4,7 +4,7 @@
 
 <div id="www-logo"></div>[adamsetapen.com](http://adamsetapen.com) | <div id="github-logo"></div>[github.com/asetapen](http://github.com/asetapen) | <div id="linkedin-logo"></div>[linkedin.com/in/adamsetapen](https://www.linkedin.com/in/adamsetapen/)
 
-##### Computer scientist and roboticist with 12+ years designing and delivering advanced robotic systems across consumer, industrial, and surgical domains. Known for building high-performing teams, architecting scalable systems, and shipping mission-critical software from prototype to production. Deeply technical and hands-on, with a relentless passion for automation, ROS2, and expressive machines. Shipped multiple  consumer robots, one industrial robot, and one surgical robot.
+##### Computer scientist and roboticist with 12+ years designing and delivering advanced robotic systems across consumer, industrial, and surgical domains. Known for building high-performing teams, architecting scalable systems, and shipping mission-critical software from prototype to production. Deeply technical and hands-on, with a relentless passion for automation, ROS2, and expressive machines. Shipped multiple consumer robots, one industrial robot, and one surgical robot.
 
 ---
 
@@ -19,11 +19,19 @@
 
 ## **Experience**
 
+### **Amazon Frontier AI & Robotics**
+
+#### *Software Development Engineer - Robotics, Amazon Frontier AI & Robotics*
+
+San Francisco, CA | Feb 2026 - Present
+
+* Building robots for high-level reasoning and understanding combined with low level dexterity and mobility
+
 ### **Remedy Robotics**
 
 #### *Head of Software | Staff Robotics Engineer*
 
-San Francisco, CA | Dec 2022 - Present
+San Francisco, CA | Dec 2022 - Feb 2026
 
 * Software lead for an endovascular surgical robot enabling remote neurointervention  
 * Control of robotic telescoping catheter with visual fiducials for orientation inference, used to treat aneurysm and stroke or for diagnostics through angiograms  
